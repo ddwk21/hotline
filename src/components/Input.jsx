@@ -12,7 +12,7 @@ const Input = () => {
                     <label htmlFor="file">
                         <IoMdAttach color='rgb(119, 70, 70)' size={20}/>
                     </label>
-                    <IconButton className='sendBtn' circle={true} icon={<BsFillSendFill color='rgb(202, 177, 177)'/>}/>
+                    <IconButton className='sendBtn' icon={<BsFillSendFill color='white'/>}/>
             </div>
         </div> 
     
